@@ -1,14 +1,14 @@
 {
-  "name": "ZaraMwol-Bot",
+  "name": "Oggy ser-Bot",
   "version": "2.5.0",
-  "description": "Zara whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "Oggy whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./bot-setting/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Raashii/bot-setting.git"
+    "url": "git+https://github.com/kalippan-minnuz/bot-setting.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Raashii / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Raashii/bot-setting/issues"
+    "url": "https://github.com/kalippan-minnuz/bot-setting/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
